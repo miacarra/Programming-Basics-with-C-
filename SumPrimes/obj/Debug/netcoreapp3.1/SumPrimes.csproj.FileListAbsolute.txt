@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\bin\Debug\netcoreapp3.1\SumPrimes.exe
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\bin\Debug\netcoreapp3.1\SumPrimes.deps.json
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\bin\Debug\netcoreapp3.1\SumPrimes.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\bin\Debug\netcoreapp3.1\SumPrimes.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\bin\Debug\netcoreapp3.1\SumPrimes.dll
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\bin\Debug\netcoreapp3.1\SumPrimes.pdb
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.dll
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.pdb
+C:\Users\Elli\source\repos\for loops remind\SumPrimes\obj\Debug\netcoreapp3.1\SumPrimes.genruntimeconfig.cache

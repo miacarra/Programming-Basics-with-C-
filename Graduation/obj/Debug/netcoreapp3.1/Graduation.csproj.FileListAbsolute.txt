@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+C:\Users\Elli\source\repos\for loops remind\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+C:\Users\Elli\source\repos\for loops remind\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+C:\Users\Elli\source\repos\for loops remind\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+C:\Users\Elli\source\repos\for loops remind\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache

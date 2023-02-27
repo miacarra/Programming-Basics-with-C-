@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\Elli\source\repos\for loops remind\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache

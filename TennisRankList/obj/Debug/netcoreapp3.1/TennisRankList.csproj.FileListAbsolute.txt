@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.exe
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.deps.json
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.dll
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.pdb
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.dll
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.pdb
+C:\Users\Elli\source\repos\for loops remind\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.genruntimeconfig.cache

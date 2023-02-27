@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\bin\Debug\netcoreapp3.1\BaseballEquipment.exe
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\bin\Debug\netcoreapp3.1\BaseballEquipment.deps.json
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\bin\Debug\netcoreapp3.1\BaseballEquipment.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\bin\Debug\netcoreapp3.1\BaseballEquipment.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\bin\Debug\netcoreapp3.1\BaseballEquipment.dll
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\bin\Debug\netcoreapp3.1\BaseballEquipment.pdb
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.dll
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.pdb
+C:\Users\Elli\source\repos\for loops remind\BaseballEquipment\obj\Debug\netcoreapp3.1\BaseballEquipment.genruntimeconfig.cache

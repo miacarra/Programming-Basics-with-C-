@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\bin\Debug\netcoreapp3.1\ConvertDegreesToRadians.exe
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\bin\Debug\netcoreapp3.1\ConvertDegreesToRadians.deps.json
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\bin\Debug\netcoreapp3.1\ConvertDegreesToRadians.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\bin\Debug\netcoreapp3.1\ConvertDegreesToRadians.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\bin\Debug\netcoreapp3.1\ConvertDegreesToRadians.dll
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\bin\Debug\netcoreapp3.1\ConvertDegreesToRadians.pdb
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.dll
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.pdb
+C:\Users\Elli\source\repos\for loops remind\ConvertDegreesToRadians\obj\Debug\netcoreapp3.1\ConvertDegreesToRadians.genruntimeconfig.cache

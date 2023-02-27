@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\StepGoal\bin\Debug\netcoreapp3.1\StepGoal.exe
+C:\Users\Elli\source\repos\for loops remind\StepGoal\bin\Debug\netcoreapp3.1\StepGoal.deps.json
+C:\Users\Elli\source\repos\for loops remind\StepGoal\bin\Debug\netcoreapp3.1\StepGoal.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\StepGoal\bin\Debug\netcoreapp3.1\StepGoal.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\StepGoal\bin\Debug\netcoreapp3.1\StepGoal.dll
+C:\Users\Elli\source\repos\for loops remind\StepGoal\bin\Debug\netcoreapp3.1\StepGoal.pdb
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.dll
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.pdb
+C:\Users\Elli\source\repos\for loops remind\StepGoal\obj\Debug\netcoreapp3.1\StepGoal.genruntimeconfig.cache

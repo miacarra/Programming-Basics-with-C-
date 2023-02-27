@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.exe
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.deps.json
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.dll
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.pdb
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.dll
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.pdb
+C:\Users\Elli\source\repos\for loops remind\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.genruntimeconfig.cache

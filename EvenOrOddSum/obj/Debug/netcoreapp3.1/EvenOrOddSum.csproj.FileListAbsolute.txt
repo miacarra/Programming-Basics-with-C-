@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\bin\Debug\netcoreapp3.1\EvenOrOddSum.exe
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\bin\Debug\netcoreapp3.1\EvenOrOddSum.deps.json
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\bin\Debug\netcoreapp3.1\EvenOrOddSum.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\bin\Debug\netcoreapp3.1\EvenOrOddSum.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\bin\Debug\netcoreapp3.1\EvenOrOddSum.dll
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\bin\Debug\netcoreapp3.1\EvenOrOddSum.pdb
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.dll
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.pdb
+C:\Users\Elli\source\repos\for loops remind\EvenOrOddSum\obj\Debug\netcoreapp3.1\EvenOrOddSum.genruntimeconfig.cache

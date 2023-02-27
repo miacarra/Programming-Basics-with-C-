@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\bin\Debug\netcoreapp3.1\ParkingHappyCat.exe
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\bin\Debug\netcoreapp3.1\ParkingHappyCat.deps.json
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\bin\Debug\netcoreapp3.1\ParkingHappyCat.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\bin\Debug\netcoreapp3.1\ParkingHappyCat.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\bin\Debug\netcoreapp3.1\ParkingHappyCat.dll
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\bin\Debug\netcoreapp3.1\ParkingHappyCat.pdb
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.dll
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.pdb
+C:\Users\Elli\source\repos\for loops remind\ParkingHappyCat\obj\Debug\netcoreapp3.1\ParkingHappyCat.genruntimeconfig.cache

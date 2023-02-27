@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.exe
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.deps.json
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Users\Elli\source\repos\for loops remind\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.genruntimeconfig.cache

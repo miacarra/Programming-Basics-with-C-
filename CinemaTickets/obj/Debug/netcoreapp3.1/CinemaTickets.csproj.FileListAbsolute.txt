@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.exe
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.deps.json
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.dll
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.pdb
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.dll
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.pdb
+C:\Users\Elli\source\repos\for loops remind\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.genruntimeconfig.cache

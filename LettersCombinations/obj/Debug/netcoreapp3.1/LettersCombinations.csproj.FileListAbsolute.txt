@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.exe
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.deps.json
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.dll
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\bin\Debug\netcoreapp3.1\LettersCombinations.pdb
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.dll
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.pdb
+C:\Users\Elli\source\repos\for loops remind\LettersCombinations\obj\Debug\netcoreapp3.1\LettersCombinations.genruntimeconfig.cache

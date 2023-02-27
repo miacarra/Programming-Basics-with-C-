@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.exe
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.deps.json
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.dll
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.pdb
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.dll
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.pdb
+C:\Users\Elli\source\repos\for loops remind\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.genruntimeconfig.cache

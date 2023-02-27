@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\Moving\bin\Debug\netcoreapp3.1\Moving.exe
+C:\Users\Elli\source\repos\for loops remind\Moving\bin\Debug\netcoreapp3.1\Moving.deps.json
+C:\Users\Elli\source\repos\for loops remind\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\Moving\bin\Debug\netcoreapp3.1\Moving.dll
+C:\Users\Elli\source\repos\for loops remind\Moving\bin\Debug\netcoreapp3.1\Moving.pdb
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.dll
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.pdb
+C:\Users\Elli\source\repos\for loops remind\Moving\obj\Debug\netcoreapp3.1\Moving.genruntimeconfig.cache

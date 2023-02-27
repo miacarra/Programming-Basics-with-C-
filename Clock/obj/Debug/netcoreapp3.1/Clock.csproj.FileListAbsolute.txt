@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\Elli\source\repos\for loops remind\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\Elli\source\repos\for loops remind\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\Elli\source\repos\for loops remind\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\Elli\source\repos\for loops remind\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

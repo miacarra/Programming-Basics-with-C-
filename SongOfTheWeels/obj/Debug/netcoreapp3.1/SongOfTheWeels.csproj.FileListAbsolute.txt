@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\bin\Debug\netcoreapp3.1\SongOfTheWeels.exe
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\bin\Debug\netcoreapp3.1\SongOfTheWeels.deps.json
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\bin\Debug\netcoreapp3.1\SongOfTheWeels.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\bin\Debug\netcoreapp3.1\SongOfTheWeels.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\bin\Debug\netcoreapp3.1\SongOfTheWeels.dll
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\bin\Debug\netcoreapp3.1\SongOfTheWeels.pdb
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.dll
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.pdb
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.genruntimeconfig.cache
+C:\Users\Elli\source\repos\for loops remind\SongOfTheWeels\obj\Debug\netcoreapp3.1\SongOfTheWeels.csproj.AssemblyReference.cache

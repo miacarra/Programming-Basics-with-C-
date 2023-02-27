@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.exe
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.deps.json
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.dll
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.pdb
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.dll
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.pdb
+C:\Users\Elli\source\repos\for loops remind\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.exe
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.deps.json
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.dll
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.pdb
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.dll
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.pdb
+C:\Users\Elli\source\repos\for loops remind\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.genruntimeconfig.cache

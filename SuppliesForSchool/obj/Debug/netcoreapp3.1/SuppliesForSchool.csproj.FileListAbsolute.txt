@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.exe
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.deps.json
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.dll
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.pdb
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.dll
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.pdb
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.genruntimeconfig.cache
+C:\Users\Elli\source\repos\for loops remind\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.csproj.AssemblyReference.cache

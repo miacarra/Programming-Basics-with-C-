@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\Oscars\bin\Debug\netcoreapp3.1\Oscars.exe
+C:\Users\Elli\source\repos\for loops remind\Oscars\bin\Debug\netcoreapp3.1\Oscars.deps.json
+C:\Users\Elli\source\repos\for loops remind\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\Oscars\bin\Debug\netcoreapp3.1\Oscars.dll
+C:\Users\Elli\source\repos\for loops remind\Oscars\bin\Debug\netcoreapp3.1\Oscars.pdb
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.dll
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.pdb
+C:\Users\Elli\source\repos\for loops remind\Oscars\obj\Debug\netcoreapp3.1\Oscars.genruntimeconfig.cache

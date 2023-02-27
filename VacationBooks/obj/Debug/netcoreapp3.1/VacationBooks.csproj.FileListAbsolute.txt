@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\bin\Debug\netcoreapp3.1\VacationBooks.exe
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\bin\Debug\netcoreapp3.1\VacationBooks.deps.json
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\bin\Debug\netcoreapp3.1\VacationBooks.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\bin\Debug\netcoreapp3.1\VacationBooks.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\bin\Debug\netcoreapp3.1\VacationBooks.dll
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\bin\Debug\netcoreapp3.1\VacationBooks.pdb
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.dll
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.pdb
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.genruntimeconfig.cache
+C:\Users\Elli\source\repos\for loops remind\VacationBooks\obj\Debug\netcoreapp3.1\VacationBooks.csproj.AssemblyReference.cache

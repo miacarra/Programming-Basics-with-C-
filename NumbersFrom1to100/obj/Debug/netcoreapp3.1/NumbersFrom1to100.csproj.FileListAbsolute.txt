@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\bin\Debug\netcoreapp3.1\NumbersFrom1to100.exe
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\bin\Debug\netcoreapp3.1\NumbersFrom1to100.deps.json
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\bin\Debug\netcoreapp3.1\NumbersFrom1to100.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\bin\Debug\netcoreapp3.1\NumbersFrom1to100.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\bin\Debug\netcoreapp3.1\NumbersFrom1to100.dll
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\bin\Debug\netcoreapp3.1\NumbersFrom1to100.pdb
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.dll
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.pdb
+C:\Users\Elli\source\repos\for loops remind\NumbersFrom1to100\obj\Debug\netcoreapp3.1\NumbersFrom1to100.genruntimeconfig.cache

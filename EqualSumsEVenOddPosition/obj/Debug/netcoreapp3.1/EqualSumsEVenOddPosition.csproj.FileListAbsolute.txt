@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.exe
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.deps.json
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.dll
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.pdb
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.dll
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.pdb
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.genruntimeconfig.cache
+C:\Users\Elli\source\repos\for loops remind\EqualSumsEVenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEVenOddPosition.csproj.AssemblyReference.cache

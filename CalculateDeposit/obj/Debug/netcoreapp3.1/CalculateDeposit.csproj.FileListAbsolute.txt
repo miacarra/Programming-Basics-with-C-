@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\bin\Debug\netcoreapp3.1\CalculateDeposit.exe
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\bin\Debug\netcoreapp3.1\CalculateDeposit.deps.json
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\bin\Debug\netcoreapp3.1\CalculateDeposit.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\bin\Debug\netcoreapp3.1\CalculateDeposit.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\bin\Debug\netcoreapp3.1\CalculateDeposit.dll
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\bin\Debug\netcoreapp3.1\CalculateDeposit.pdb
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.dll
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.pdb
+C:\Users\Elli\source\repos\for loops remind\CalculateDeposit\obj\Debug\netcoreapp3.1\CalculateDeposit.genruntimeconfig.cache

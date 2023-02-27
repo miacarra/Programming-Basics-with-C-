@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.exe
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.deps.json
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.dll
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.pdb
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.dll
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.pdb
+C:\Users\Elli\source\repos\for loops remind\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.genruntimeconfig.cache

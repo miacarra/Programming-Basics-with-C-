@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\bin\Debug\netcoreapp3.1\AccountBallance.exe
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\bin\Debug\netcoreapp3.1\AccountBallance.deps.json
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\bin\Debug\netcoreapp3.1\AccountBallance.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\bin\Debug\netcoreapp3.1\AccountBallance.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\bin\Debug\netcoreapp3.1\AccountBallance.dll
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\bin\Debug\netcoreapp3.1\AccountBallance.pdb
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.dll
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.pdb
+C:\Users\Elli\source\repos\for loops remind\AccountBallance\obj\Debug\netcoreapp3.1\AccountBallance.genruntimeconfig.cache

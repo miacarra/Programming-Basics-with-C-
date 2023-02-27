@@ -1,0 +1,14 @@
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.exe
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.AssemblyReference.cache
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\Elli\source\repos\for loops remind\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache
